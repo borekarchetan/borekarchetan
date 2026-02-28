@@ -78,7 +78,7 @@ To transition into a Business Analyst role where I can combine business understa
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/chetan-borekar/
-- GitHub Portfolio: github.com/borekarchetan
+- GitHub Portfolio: https://github.com/borekarchetan
 
 ---
 
