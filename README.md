@@ -3,7 +3,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 MBA graduate transitioning from Sales Leadership into Business Analytics.  
 I specialize in transforming raw data into structured insights that drive strategic business decisions.
@@ -17,7 +17,7 @@ Currently building analytics-focused portfolio projects aligned with Business An
 
 ---
 
-## 🛠 Core Competencies
+##  Core Competencies
 
 **Business Analysis**
 - KPI Identification & Performance Tracking  
@@ -38,9 +38,9 @@ Currently building analytics-focused portfolio projects aligned with Business An
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
-### 🔹 Used Car Market Analysis – CARS24
+###  Used Car Market Analysis – CARS24
 **Objective:** Analyze used car demand & pricing trends to derive business insights.
 
 **Key Contributions:**
@@ -55,8 +55,9 @@ Currently building analytics-focused portfolio projects aligned with Business An
 - Delivered data-backed insights for decision support  
 
 🔗 View Project:  
-[Add Your Project Link Here]
 
+https://github.com/borekarchetan/used-car-market-analysis-cars24
+https://github.com/borekarchetan/maharashtra-construction-demand-analysis
 ---
 
 ## 📊 What I’m Currently Working On
@@ -76,7 +77,7 @@ To transition into a Business Analyst role where I can combine business understa
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Add LinkedIn Link]
+- LinkedIn: https://www.linkedin.com/in/chetan-borekar/
 - GitHub Portfolio: github.com/borekarchetan
 
 ---
