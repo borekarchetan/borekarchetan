@@ -1,16 +1,84 @@
-## Hi there 👋
+# Hi, I'm Chetan Borekar 👋  
+**MBA | Aspiring Business Analyst | Data-Driven Decision Maker**
 
-<!--
-**borekarchetan/borekarchetan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+MBA graduate transitioning from Sales Leadership into Business Analytics.  
+I specialize in transforming raw data into structured insights that drive strategic business decisions.
+
+With hands-on experience in SQL, Tableau, and market intelligence projects, I focus on:
+- Identifying performance gaps  
+- Analyzing demand & pricing trends  
+- Translating data into actionable recommendations  
+
+Currently building analytics-focused portfolio projects aligned with Business Analyst and Consulting roles.
+
+---
+
+## 🛠 Core Competencies
+
+**Business Analysis**
+- KPI Identification & Performance Tracking  
+- Requirement Understanding  
+- Root Cause Analysis  
+- Insight Generation & Strategic Recommendations  
+
+**Technical Skills**
+- SQL (Joins, CTEs, Window Functions, Aggregations)  
+- Tableau (Interactive Dashboards, KPI Visualization)  
+- Excel (Data Cleaning, Pivot Tables, Lookup Functions)  
+
+**Analytical Thinking**
+- Market & Pricing Analysis  
+- Trend Identification  
+- Data Storytelling  
+- Structured Problem Solving  
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 Used Car Market Analysis – CARS24
+**Objective:** Analyze used car demand & pricing trends to derive business insights.
+
+**Key Contributions:**
+- Cleaned and structured raw dataset using SQL  
+- Performed demand segmentation & price trend analysis  
+- Built interactive Tableau dashboard for visualization  
+- Generated strategic recommendations for inventory optimization  
+
+**Impact:**
+- Identified high-demand vehicle categories  
+- Highlighted pricing clusters influencing resale margins  
+- Delivered data-backed insights for decision support  
+
+🔗 View Project:  
+[Add Your Project Link Here]
+
+---
+
+## 📊 What I’m Currently Working On
+
+- Sales Performance & KPI Dashboard Project  
+- Customer Segmentation Analysis  
+- Advanced SQL Optimization Techniques  
+- Strengthening problem-solving for consulting-style case analysis  
+
+---
+
+## 🎯 Career Objective
+
+To transition into a Business Analyst role where I can combine business understanding with analytical rigor to support strategic decision-making and operational efficiency.
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: [Add LinkedIn Link]
+- GitHub Portfolio: github.com/borekarchetan
+
+---
+
+*Turning data into clarity. Turning clarity into decisions.*
