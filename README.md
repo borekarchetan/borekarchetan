@@ -41,7 +41,7 @@ Currently building a focused BA portfolio with end-to-end SQL + Tableau projects
 ## Featured Projects
 
 ### Superstore Sales Analysis — SQL & Tableau
-**Objective:** End-to-end sales performance analysis across 9,994 transactions (2014–2017)
+**Objective:** End-to-end sales performance analysis across 9,994 transaction
 
 **Key Contributions:**
 - Wrote 18 production-level SQL queries covering revenue, profitability, trends, and discount impact
