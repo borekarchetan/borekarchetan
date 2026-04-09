@@ -1,110 +1,113 @@
 # Hi, I'm Chetan Borekar 👋
+
 **Certified Business Analyst | MBA | SQL • Tableau • Power BI • Advanced Excel**
 
 ---
 
 ## About Me
 
-MBA-qualified Certified Business Analyst with 2+ years of experience at **Godrej & Boyce Mfg. Co. Ltd.**, translating complex business problems into data-driven decisions.
+MBA-qualified **Certified Business Analyst** with 2+ years of experience at **Godrej & Boyce Mfg. Co. Ltd.**, specializing in business operations, performance analytics, and revenue optimization.
 
-I specialize in:
-- Designing KPI frameworks and analytical dashboards
-- Requirements gathering (BRD/FRD) and stakeholder alignment
-- Identifying revenue gaps, demand drivers, and conversion bottlenecks
-- Translating raw data into strategic business recommendations
+* Contributed to **₹16 Cr revenue in FY 2024–25** and **₹8 Cr during Management Trainee tenure**
+* Improved team revenue by **6–8% through data-driven planning and CRM insights**
+* Delivered process improvements through **Kaizen initiatives and structured problem-solving**
 
-Currently building a focused BA portfolio with end-to-end SQL + Tableau projects targeting Business Analyst and Consulting roles.
+I focus on translating **business problems → data insights → strategic decisions**.
 
 ---
 
 ## Core Competencies
 
-**Business Analysis**
-- KPI Framework Design & Performance Tracking
-- Requirements Gathering (BRD/FRD)
-- Root Cause Analysis & Insight Generation
-- Stakeholder Management & Cross-functional Collaboration
+### Business Analysis
 
-**Technical Skills**
-- SQL (Joins, CTEs, Aggregations, Window Functions)
-- Tableau (Interactive Dashboards, KPI Visualization)
-- Power BI | Advanced Excel (Pivot Tables, Lookups, Forecasting)
-- Salesforce CRM | JIRA | Python (Basic)
+* KPI Framework Design & Performance Tracking
+* Requirements Gathering (BRD/FRD)
+* Root Cause Analysis & Process Improvement (Kaizen)
+* Stakeholder Management & Cross-functional Coordination
 
-**Analytical Thinking**
-- Sales & Revenue Analysis | Funnel Analysis
-- Market & Pricing Analysis | Trend Identification
-- Data Storytelling | Structured Problem Solving
+### Technical Skills
+
+* SQL (Joins, CTEs, Aggregations, Window Functions)
+* Tableau (Interactive Dashboards, KPI Visualization)
+* Power BI | Advanced Excel (Pivot Tables, Forecasting, Lookups)
+* Salesforce CRM | JIRA | Python (Basic)
+
+### Analytical Expertise
+
+* Sales & Revenue Analysis
+* Funnel & Conversion Analysis
+* Market & Demand Analysis
+* Data Storytelling & Insight Communication
 
 ---
 
 ## Featured Projects
 
 ### Superstore Sales Analysis — SQL & Tableau
-**Objective:** End-to-end sales performance analysis across 9,994 transaction
 
-**Key Contributions:**
-- Wrote 18 production-level SQL queries covering revenue, profitability, trends, and discount impact
-- Built a 5-chart Tableau dashboard: KPI card, category revenue, regional profit, scatter analysis, monthly trend
-- Identified loss-making sub-categories (Tables: $200K sales, -$18K profit)
-- Delivered 7 quantified business insights and 6 strategic recommendations
+* Analyzed **9,994 transactions using 18 SQL queries**
+* Built a **5-chart Tableau dashboard** for performance tracking
+* Identified **loss-making sub-categories (Tables: -$18K profit)**
 
 **Impact:**
-- Uncovered $50K–$80K annual profit recovery opportunity through discount policy reform
-- Identified West region as top profit contributor (37% of total profit)
-- Flagged Q4 seasonality pattern for proactive inventory and campaign planning
 
-🔗 [View Project](https://github.com/borekarchetan/superstore-sales-analysis)
+* Discovered **$50K–$80K profit recovery opportunity**
+* Identified **West region contributing 37% of total profit**
+* Highlighted **Q4 seasonality trends for planning**
+
+🔗 https://github.com/borekarchetan/superstore-sales-analysis
 
 ---
 
 ### Used Car Market Analysis — CARS24 | SQL & Tableau
-**Objective:** Analyze used car demand and pricing trends to derive business insights
 
-**Key Contributions:**
-- Cleaned and structured raw marketplace data using SQL
-- Performed demand segmentation and price trend analysis
-- Built interactive Tableau dashboard for visualization
-- Generated strategic recommendations for inventory optimization
+* Performed **price trend & demand segmentation analysis using SQL**
+* Built **interactive Tableau dashboard for business insights**
 
 **Impact:**
-- Identified high-demand vehicle categories and pricing clusters
-- Delivered data-backed insights for resale margin decision support
 
-🔗 [View Project](https://github.com/borekarchetan/used-car-market-analysis-cars24)
+* Identified **high-demand vehicle categories & pricing clusters**
+* Enabled **data-backed inventory and pricing decisions**
+
+🔗 https://github.com/borekarchetan/used-car-market-analysis-cars24
+
+---
+
+### SaaS Sales Pipeline Conversion Analysis (Case Study)
+
+* Identified conversion drop from **35% → 25% using funnel analysis**
+* Recommended **lead scoring and CRM optimization strategies**
 
 ---
 
 ### Maharashtra Construction Demand Analysis
-**Objective:** Analyze regional infrastructure trends to identify high-growth markets
 
-**Key Contributions:**
-- Analyzed construction demand patterns across 20+ districts
-- Identified high-growth corridors for strategic investment decisions
-- Delivered structured recommendations for expansion planning
-
-🔗 [View Project](https://github.com/borekarchetan/maharashtra-construction-demand-analysis)
+* Analyzed **20+ districts for infrastructure demand trends**
+* Identified **high-growth corridors for expansion planning**
 
 ---
 
 ## What I'm Currently Working On
-- Advanced SQL optimization and portfolio expansion
-- Customer segmentation analysis
-- Consulting-style case analysis and problem-solving frameworks
-- Professional Certificate in Business Analytics & Consulting — upGrad + PwC India (March 2026)
+
+* Advanced SQL optimization & performance tuning
+* Customer segmentation & cohort analysis
+* Consulting-style case frameworks & structured problem solving
+* Business Analytics & Consulting Certification — upGrad + PwC India (Mar 2026)
 
 ---
 
 ## Career Objective
-To contribute as a Business Analyst where I can combine business acumen with analytical rigor — supporting strategic decision-making, process improvement, and revenue growth.
+
+To work as a **Business Analyst** where I can leverage data, business understanding, and analytical thinking to drive **revenue growth, process optimization, and strategic decision-making**.
 
 ---
 
 ## Connect With Me
-- 📧 borekarchetan99@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/chetan-borekar/)
-- 🐙 [GitHub Portfolio](https://github.com/borekarchetan)
+
+📧 [borekarchetan99@gmail.com](mailto:borekarchetan99@gmail.com)
+💼 https://www.linkedin.com/in/chetan-borekar/
+🐙 https://github.com/borekarchetan
 
 ---
 
-*Turning data into clarity. Turning clarity into decisions.*
+**Turning data into clarity. Turning clarity into decisions.**
